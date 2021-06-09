@@ -1,4 +1,4 @@
-[![title](https://chicken-moo.com/github/mainReadmeTitle1.png)](https://chicken-moo.com/)
+[![title](https://chicken-moo.com/github/mainReadmeTitle.png)](https://chicken-moo.com/)
   
   
 - 🔭 I’m currently working on [chicken-moo](https://chicken-moo.com/)

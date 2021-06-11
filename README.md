@@ -1,11 +1,8 @@
 [![title](https://chicken-moo.com/github/mainReadmeTitle2.png)](https://chicken-moo.com/)
   
   
-- 🔭 I’m currently working on [chicken-moo](https://chicken-moo.com/)
-
-- 👨‍💻 All of my projects are available at [https://chicken-moo.com/intro](https://chicken-moo.com/intro)
-- 📫 How to reach me **colajeamin@gmail.com**
-
+- 🔭 I’m Yongho middle school student
+- Hello, GitHub Users!
 
 
 <h3 align="left">Connect with me:</h3>

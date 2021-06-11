@@ -1,8 +1,4 @@
 [![title](https://chicken-moo.com/github/mainReadmeTitle2.png)](https://chicken-moo.com/)
-  
-  
-- 🔭 I’m Yongho middle school student
-- Hello, GitHub Users!
 
 
 <h3 align="left">Connect with me:</h3>

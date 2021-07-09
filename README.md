@@ -15,6 +15,6 @@
 
 <h3 align="left">GitHub Information</h3>
 
-[![info](https://github-readme-stats.vercel.app/api?username=jeamin-0927&show_icons=true&title_color=8FDEFC&text_color=9BAEF8&bg_color=DEG,34558b,111&icon_color=B48FFC](https://github.com/jeamin-0927/)
+[![info](https://github-readme-stats.vercel.app/api?username=jeamin-0927&show_icons=true&title_color=8FDEFC&text_color=9BAEF8&bg_color=DEG,34558b,111&icon_color=B48FFC)](https://github.com/jeamin-0927/)
 [![lange](https://github-readme-stats.vercel.app/api/top-langs/?username=jeamin-0927&layout=compact&title_color=8FDEFC&text_color=9BAEF8&bg_color=000000&icon_color=B48FFC)](https://github.com/jeamin-0927/)
 

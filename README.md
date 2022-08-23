@@ -1,4 +1,3 @@
-[![title](https://chicken-moo.com/.old/github/mainReadmeTitle2.png)](https://chicken-moo.com/)
 
  <h3>와.. 옛날 코드 ㄷㅓ럽다</h3>
 
